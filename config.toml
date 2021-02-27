@@ -1,4 +1,4 @@
-baseURL = "https://nicoayci.github.io/cheveuxguide"
+baseURL = "https://cheveux.guide"
 publishDir = "docs"
 title = "Le guide des cheveux"
 theme = "etch"
