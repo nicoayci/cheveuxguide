@@ -1,5 +1,6 @@
 baseURL = "https://cheveux.guide"
 publishDir = "docs"
+canonifyurls = true
 title = "Le guide des cheveux"
 theme = "etch"
 languageCode = "fr-FR"
